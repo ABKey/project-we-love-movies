@@ -4,10 +4,6 @@ This is a simple movie database app that allows users to add movies to a databas
 
 ---
 
-## Website Link
-
-Link: https://movie-database-app-frontend.herokuapp.com/
-
 ## Application Features
 
 - Users can add movies to the database
